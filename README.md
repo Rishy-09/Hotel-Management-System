@@ -18,11 +18,11 @@ Before you begin, ensure you have the following:
 
 Access all necessary resources, including icons, database files (`databasefile.txt`), `jcalender` JAR file, and `mysql-connector` JAR file here:
 
-[Project Resources](https://drive.google.com/drive/folders/1XgW-Y6Nzg-6-o9T_bsqN5UKSha_wEvs7)
+[Project Resources](https://drive.google.com/drive/folders/1L7NjT_t_DmY4-ssd5yVyBDKZkHti3_GS)
 
 ## Acknowledgements
 
-Special thanks to the creator of the YouTube playlist ["Hotel Management System in Java"](https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqE1-_MJgZiJqAaccjLGHh0H&index=1&t=0s) for providing an excellent step-by-step guide that significantly aided the development of this project.
+Special thanks to the creator of the YouTube playlist ["Hotel Management System in Java"](https://www.youtube.com/watch?v=E7m5ci3dsKo&list=PL_6klLfS1WqEs4e9GJReOgCU7EM4UnDr8) for providing an excellent step-by-step guide that significantly aided the development of this project.
 
 ## Project Structure
 
